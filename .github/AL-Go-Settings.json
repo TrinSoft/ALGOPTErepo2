@@ -2,8 +2,8 @@
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v7.2/settings.schema.json",
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
-  "DeployToTrinsoft Tenant Sandbox": {
-    "EnvironmentName": "TRINSOFTSANDBOXJD-241015141254",
+  "DeployToTRINSOFTSANDBOXJD": {
+    "EnvironmentName": "Sandbox_JD-241015141254",
     "continuousDeployment": true
   }
 }
