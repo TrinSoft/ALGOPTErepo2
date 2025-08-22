@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v7.2/settings.schema.json",
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
-  "DeployTocustomertest": {
+  "DeployToMy-QA": {
     "EnvironmentName": "Sandbox_JD-241015141254",
     "continuousDeployment": true
   }
