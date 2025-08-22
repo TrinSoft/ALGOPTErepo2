@@ -3,7 +3,7 @@
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
   "DeployToTRINSOFTSANDBOXJD": {
-    "EnvironmentName": "Sandbox_JD-241015141254",
+    "EnvironmentName": "Sandbox_Dev",
     "continuousDeployment": true
   }
 }
