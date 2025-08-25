@@ -5,8 +5,9 @@
   "DeployToMy-QA": {
     "EnvironmentName": "Sandbox_JD-241015141254",
     "continuousDeployment": true
-  }
+  },
   "DeployToPROD": {
+    "EnvironmentName": "Sandbox_JD-241015141254",
     "continuousDeployment": false
   }
 }
